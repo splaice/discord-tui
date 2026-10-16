@@ -2,6 +2,8 @@
 
 A full-screen terminal client for Discord chats. The left column is direct messages, then servers and their text channels. The right column is the open conversation. The writing pane stays pinned under the history. Inside it, a prompt takes the message: a `>` on the first line, and the chat name along the bottom. That prompt highlights while it is focused.
 
+![dt with a chat open and a draft in the composer](screenshots/composer.png)
+
 The chrome matches inbox and ot: neutral dark surfaces, a magenta accent, a one-cell divider, and a hint line along the bottom.
 
 `dt` signs in as your Discord account. It lists your servers, their text and announcement channels, and your direct messages — the same set the Discord apps show. Voice, threads, members, and reactions are out of scope.
